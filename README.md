@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed _aka BNA_ 👋
+## Hi there, I'm Ahmed _aka BNA_ 👋
 
 A self taught **JavaScript** developer committed to lifelong learning with excellent communication skills from Giza, Egypt.
 
