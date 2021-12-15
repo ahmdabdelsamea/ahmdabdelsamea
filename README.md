@@ -26,7 +26,7 @@ let location = 'Giza, Egypt'
 | Skill | Imgae |
 | --- | --- |
 | HTML | Advance |
-| HTML | Advance |
+| HTML | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>|
 | HTML | Advance |
 
 > Keep Smiling and code more
@@ -40,6 +40,3 @@ let location = 'Giza, Egypt'
 - list two
 - list three
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdabdelsamea&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdabdelsamea&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
