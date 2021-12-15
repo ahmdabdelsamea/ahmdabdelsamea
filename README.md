@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ahmed Abdelsamea (a.k.a. BNA) 👋
 
 I'm a self taught JavaScript developer committed to lifelong learning with excellent communication skills from Giza, Egypt.
 
