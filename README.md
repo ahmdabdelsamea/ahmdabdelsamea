@@ -2,6 +2,9 @@
 
 I'm a self taught JavaScript developer committed to lifelong learning with excellent communication skills from Giza, Egypt.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdabdelsamea)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ahmdabdelsamea/ahmdabdelsamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
