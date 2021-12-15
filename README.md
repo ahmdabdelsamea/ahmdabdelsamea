@@ -19,6 +19,9 @@ let location = 'Giza, Egypt'
 ### Images
 ![porfile picture]()
 
-### Code
-`Code is written`
-
+### Table
+| Skill | Imgae |
+| --- | --- |
+| HTML | Advance |
+| HTML | Advance |
+| HTML | Advance |
