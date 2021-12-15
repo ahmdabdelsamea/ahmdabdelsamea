@@ -13,8 +13,8 @@ let location = 'Giza, Egypt'
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ~~HTML~~ HTML5
-- ~~CSS~~ CSS3
+- HTML5 ~~HTML~~ 
+-  CSS3 ~~CSS~~
 - Java Script | ES6
 - React.js
 - Next.js
@@ -25,14 +25,6 @@ let location = 'Giza, Egypt'
 ### Pet Projects
 [l.dorado](https://ldorado.herokuapp.com/ "ldorado")
 
-
-
-### Table
-| Skill | Imgae |
-| --- | --- |
-| HTML | Advance |
-| HTML | Advane |
-| HTML | Advance |
 
 > Keep Smiling and code more
 
