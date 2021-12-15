@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a self taught JavaScript developer committed to lifelong learning with excellent communication skills from Giza, Egypt.
+
 <!--
 **ahmdabdelsamea/ahmdabdelsamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
