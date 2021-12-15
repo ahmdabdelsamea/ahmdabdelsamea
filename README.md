@@ -26,7 +26,7 @@ let location = 'Giza, Egypt'
 [l.dorado](https://ldorado.herokuapp.com/ "ldorado")
 
 
-> Keep Smiling and code more
+> Keep Smiling and code more :heart:
 
 
 
