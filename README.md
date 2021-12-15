@@ -13,10 +13,17 @@ let location = 'Giza, Egypt'
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- HTML5 ~~HTML~~ 
--  CSS3 ~~CSS~~
-- JavaScript | Ecmascript (ES6)
+- HTML5
+- CSS3 
+- JavaScript | Ecmascript6 (ES6)
 - React.js
+- Redux | Redux Toolkit
+- Formik
+- Node.js
+- Express.js
+- NoSQL
+- MongoDB
+- Mongoose
 - Next.js
 
 
