@@ -11,6 +11,8 @@ let location = 'Giza, Egypt'
 
 ### Skills
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - ~~HTML~~ HTML5
 - ~~CSS~~ CSS3
 - Java Script | ES6
