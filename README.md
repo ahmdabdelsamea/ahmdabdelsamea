@@ -7,11 +7,14 @@ const name = 'Ahmed Abdelsamea'
 const nickName = 'BNA'
 let location = 'Giza, Egypt'
 ```
+---
 
 ### Skills
 
 ~~HTML~~ HTML5
 ~~CSS~~ CSS3
+
+---
 
 ### Pet Projects
 [l.dorado](https://ldorado.herokuapp.com/ "ldorado")
