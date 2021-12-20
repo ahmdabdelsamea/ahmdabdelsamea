@@ -15,7 +15,7 @@ let location = 'Giza, Egypt'
 
 - HTML5
 - CSS3 
-- JavaScript | Ecmascript6 (ES6)
+- JavaScript | Ecmascript2015 (ES6+)
 - React.js
 - Redux | Redux Toolkit
 - Formik
@@ -30,7 +30,11 @@ let location = 'Giza, Egypt'
 ---
 
 ### Pet Projects
-[l.dorado](https://ldorado.herokuapp.com/ "ldorado")
+- [l.dorado](https://ldorado.herokuapp.com/)
+- [COVID19 Tracker](https://covid-19-tracker-6be22.web.app/)
+- [Spotify Clone](https://spotify-clone-kappa-two.vercel.app/login)
+- [Disney+ Clone](https://disney-plus-clone-tmdb.netlify.app/)
+- [l.dorado APP](https://youtu.be/pnpmC7Vfgto)
 
 
 > Keep Smiling and code more :heart:
